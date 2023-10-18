@@ -1,5 +1,5 @@
 ### Hi there 👋
-*** HI THERE X2
+## HI THERE X2
 <!--
 **TuCola08/TuCola08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
